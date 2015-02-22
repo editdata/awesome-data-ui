@@ -1,6 +1,6 @@
 title: data-ui
 description: documenting & prototyping approaches to editing & managing data.
-baseurl: ""
+baseurl: "/data-ui"
 markdown: redcarpet
 permalink: /posts/:title
 exclude: [node_modules, tmp, README.md, LICENSE.md]

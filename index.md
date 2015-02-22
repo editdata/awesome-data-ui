@@ -6,8 +6,8 @@ layout: default
 
 - **[data-ui on Github](http://github.com/sethvincent/data-ui)**
 - **[Discussions, tasks, and issue reporting](http://github.com/sethvincent/data-ui/issues)**
-- **[Contributing guidelines](/contributing)**
-- **[Resources](/resources)**
+- **[Contributing guidelines]({{ site.baseurl }}/contributing)**
+- **[Resources]({{ site.baseurl }}/resources)**
 
 ## The goal
 
@@ -41,14 +41,14 @@ Create a set of open source js, css, & html packages that provide accessible, ea
 
 There are a number of existing projects related to editing JSON & tabular data.
 
-We're documenting those projects & approaches in the [resources.md](resources.md) file, and contributions are welcome!
+We're documenting those projects & approaches in the [resources.md]({{ site.baseurl }}/resources) file, and contributions are welcome!
 
 ## Contributing
 
 This project is as much about design & documentation as it is about code, and we are actively seeking contributions!
 
-Read the [contributing guidelines for details](CONTRIBUTING.md).
+Read the [contributing guidelines for details]({{ site.baseurl }}/contributing).
 
 ## License
 
-Code is licensed as [MIT](LICENSE.md), content is licensed as [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Code is licensed as [MIT](https://github.com/sethvincent/data-ui/blob/gh-pages/LICENSE.md), content is licensed as [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
