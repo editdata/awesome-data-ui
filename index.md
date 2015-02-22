@@ -41,7 +41,7 @@ Create a set of open source js, css, & html packages that provide accessible, ea
 
 There are a number of existing projects related to editing JSON & tabular data.
 
-We're documenting those projects & approaches in the [resources.md]({{ site.baseurl }}/resources) file, and contributions are welcome!
+We're documenting those projects & approaches on the [resources]({{ site.baseurl }}/resources) page, and contributions are welcome!
 
 ## Contributing
 
