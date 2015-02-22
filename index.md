@@ -1,11 +1,13 @@
-# data-ui
+---
+layout: default
+---
 
 `data-ui` is a collection of modules & documentation of approaches for editing & managing data through user interfaces.
 
 - **[data-ui on Github](http://github.com/sethvincent/data-ui)**
 - **[Discussions, tasks, and issue reporting](http://github.com/sethvincent/data-ui/issues)**
-- **[Contributing guidelines](CONTRIBUTING.md)**
-- **[Resources](resources.md)**
+- **[Contributing guidelines](/contributing)**
+- **[Resources](/resources)**
 
 ## The goal
 

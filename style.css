@@ -1,0 +1,72 @@
+html,
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+html,
+body,
+input,
+button,
+select,
+textarea {
+  font: 17px/1.8 "Lato", "Helvetica Neue", Helvetica, arial, sans-serif;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  font-weight: 500;
+}
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 90%;
+  margin: 0px auto;
+}
+
+.hidden {
+  text-indent: -9999px;
+  visibility: hidden;
+  display: none;
+}
+
+@media (min-width: 62em) {
+  .container {
+    width: 80%;
+    margin: 0px auto;
+  }
+  
+  nav#primary li.menu-item {
+    display: inline-block;
+  }
+}
+
+@media (min-width: 700px) {
+  .container {
+    width: 660px;
+  }
+}
+
+
+/* clearfix */
+.clearfix:before,
+.clearfix:after.
+.container:before,
+.container:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after,
+.container:after {
+  clear: both;
+}
+
+.clearfix,
+.container {
+  *zoom: 1;
+}

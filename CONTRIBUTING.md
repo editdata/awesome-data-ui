@@ -1,3 +1,9 @@
+---
+title: Contributing to data-ui
+permalink: /contributing/
+layout: default
+---
+
 # Request for contributions
 
 Please contribute to this repository if any of the following is true:

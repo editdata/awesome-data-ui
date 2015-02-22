@@ -1,6 +1,11 @@
 ---
-layout: page
+layout: default
+permalink: /resources/
 ---
+
+# Resources
+
+Existing open source projects, demos, paid services, etc. that demonstrate approaches to editing & managing data through a user interface.
 
 ## editors & transformation tools
 - [OpenRefine](https://github.com/OpenRefine/OpenRefine) – a free, open source power tool for working with messy data and improving it
