@@ -13,11 +13,13 @@ Please contribute to this repository if any of the following is true:
 
 # How to contribute
 
-Prerequisites:  
- - familiarity with [GitHub PRs](https://help.github.com/articles/using-pull-requests) (pull requests) and issues.
- - Knowledge of [markdown](https://help.github.com/articles/markdown-basics/) for editing `.md` documents
+**Prerequisites:**  
 
-In particular, this community seeks the following types of contributions:
+ - Familiarity with [GitHub PRs](https://help.github.com/articles/using-pull-requests) (pull requests) and issues.
+ - Knowledge of [markdown](https://help.github.com/articles/markdown-basics/) for editing `.md` documents.
+ - Understanding of the basics of [Jekyll](http://jekyllrb.com/).
+
+**In particular, this community seeks the following types of contributions:**
 
 - ideas: participate in an issues thread or start your own to have your voice heard.
 - resources: submit a PR to add to [resources.md](resources.md) with links to related content
