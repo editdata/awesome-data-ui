@@ -10,6 +10,7 @@ Existing open source projects, demos, paid services, etc. that demonstrate appro
 ## editors & transformation tools
 - [OpenRefine](https://github.com/OpenRefine/OpenRefine) – a free, open source power tool for working with messy data and improving it
 - [flatsheet](http://github.com/flatsheet/flatsheet) – realtime editor for curating data as a team
+- [dataexplorer](https://github.com/okfn/dataexplorer) & [recline.js](http://okfnlabs.org/recline/)
 
 ## dat – version control & replication of data
 - [dat](http://github.com/maxogden/dat) – real-time replication and versioning for data sets
