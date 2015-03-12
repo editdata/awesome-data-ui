@@ -11,7 +11,7 @@ Existing open source projects, demos, paid services, etc. that demonstrate appro
 - [OpenRefine](https://github.com/OpenRefine/OpenRefine) – a free, open source power tool for working with messy data and improving it
 - [flatsheet](http://github.com/flatsheet/flatsheet) – realtime editor for curating data as a team
 
-## dat
+## dat – version control & replication of data
 - [dat](http://github.com/maxogden/dat) – real-time replication and versioning for data sets
 - [dat-editor](https://github.com/maxogden/dat-editor) – grid editor/viewer for dat
 
@@ -34,6 +34,14 @@ Existing open source projects, demos, paid services, etc. that demonstrate appro
 - [json-schema](http://json-schema.org/) – describes your JSON data format
 - [is-my-json-valid](https://www.npmjs.com/package/is-my-json-valid) – A JSONSchema validator that uses code generation to be extremely fast
 - [jsonlint](https://github.com/zaach/jsonlint) – A JSON parser and validator with a CLI
+
+## modules for working with excel/google spreadsheets:
+- http://sheetjs.com/
+- https://github.com/guyonroche/exceljs
+
+## converting text blobs to structured data
+- markdown to json: https://github.com/veltman/markdowneyjr
+- yaml-like markup: http://archieml.org/
 
 ## leveldb related
 - [levelui](https://github.com/hij1nx/levelui) – A GUI for LevelDB management based on atom-shell
