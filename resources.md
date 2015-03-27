@@ -44,13 +44,19 @@ http://data.okfn.org/tools/validate
  - See also: http://ben.balter.com/behind-github-geojson/
 
 ## modules for working with excel/google spreadsheets:
+- [sheetdown](https://github.com/jlord/sheetdown) - Convert a Google Spreadsheet into a table in Markdown
 - http://sheetjs.com/
 - [sheetsee.js](https://github.com/jlord/sheetsee.js) - visualize data from a google spreadsheet 
 http://jlord.github.io/sheetsee.js/
- - [sheetsee-tables](https://github.com/jlord/sheetsee-tables) - Module for creating tables with sheetsee.js
  - [sheetsee-calendar](https://github.com/jlord/sheetsee-calendar) - Website with calendar of events from a Google Spreadsheet 
-http://jlord.github.io/sheetsee-calendar
-
+http://jlord.github.io/sheetsee-calendar	
+ - [sheetsee-charts](https://github.com/jlord/sheetsee-charts) - Add charting making functionality to sheetsee.js
+ - [sheetsee-core](https://github.com/jlord/sheetsee-core) - Module with core data manipulation functions for sheetsee.js
+ - [sheetsee-maps](https://github.com/jlord/sheetsee-maps) - Module for adding maps to sheetsee.js
+  - - [mappy](https://github.com/jlord/mappy) - Fullscreen Map from Spreadsheet 
+http://jlord.github.io/mappy
+ - [sheetsee-starter](https://github.com/jlord/sheetsee-starter) - Fork and get started with Sheetsee.js!
+ - [sheetsee-tables](https://github.com/jlord/sheetsee-tables) - Module for creating tables with sheetsee.js
 - https://github.com/guyonroche/exceljs
 
 ## converting text blobs to structured data
