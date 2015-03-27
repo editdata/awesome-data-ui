@@ -36,6 +36,9 @@ Existing open source projects, demos, paid services, etc. that demonstrate appro
 - [is-my-json-valid](https://www.npmjs.com/package/is-my-json-valid) – A JSONSchema validator that uses code generation to be extremely fast
 - [jsonlint](https://github.com/zaach/jsonlint) – A JSON parser and validator with a CLI
 
+## visualizing diffs of data:
+- [daff](https://www.npmjs.com/package/daff) – a tool for easily comparing tabular data
+
 ## modules for working with excel/google spreadsheets:
 - http://sheetjs.com/
 - https://github.com/guyonroche/exceljs
