@@ -32,12 +32,14 @@ Existing open source projects, demos, paid services, etc. that demonstrate appro
 - [FlexiJsonEditor](https://github.com/DavidDurman/FlexiJsonEditor) – JSON editor as a jQuery plugin
 
 ## data validation
+- [data-package-validate](https://github.com/okfn/datapackage-validate) - Validate Data Package DataPackage.json files 
+http://data.okfn.org/tools/validate
 - [json-schema](http://json-schema.org/) – describes your JSON data format
 - [is-my-json-valid](https://www.npmjs.com/package/is-my-json-valid) – A JSONSchema validator that uses code generation to be extremely fast
 - [jsonlint](https://github.com/zaach/jsonlint) – A JSON parser and validator with a CLI
 
 ## visualizing diffs of data:
-- [daff](https://www.npmjs.com/package/daff) – a tool for easily comparing tabular data
+- [daff](http://paulfitz.github.io/daff/) – a tool for easily comparing tabular data
 
 ## modules for working with excel/google spreadsheets:
 - http://sheetjs.com/
