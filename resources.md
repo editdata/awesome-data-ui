@@ -40,9 +40,17 @@ http://data.okfn.org/tools/validate
 
 ## visualizing diffs of data:
 - [daff](http://paulfitz.github.io/daff/) – a tool for easily comparing tabular data
+- [geojson-diff](https://github.com/benbalter/geojson-diff) - A Ruby library for diffing GeoJSON files
+ - See also: http://ben.balter.com/behind-github-geojson/
 
 ## modules for working with excel/google spreadsheets:
 - http://sheetjs.com/
+- [sheetsee.js](https://github.com/jlord/sheetsee.js) - visualize data from a google spreadsheet 
+http://jlord.github.io/sheetsee.js/
+ - [sheetsee-tables](https://github.com/jlord/sheetsee-tables) - Module for creating tables with sheetsee.js
+ - [sheetsee-calendar](https://github.com/jlord/sheetsee-calendar) - Website with calendar of events from a Google Spreadsheet 
+http://jlord.github.io/sheetsee-calendar
+
 - https://github.com/guyonroche/exceljs
 
 ## converting text blobs to structured data
