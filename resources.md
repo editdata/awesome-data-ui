@@ -37,7 +37,7 @@ Existing open source projects, demos, paid services, etc. that demonstrate appro
 - [jsonlint](https://github.com/zaach/jsonlint) – A JSON parser and validator with a CLI
 
 ## visualizing diffs of data:
-- [daff](https://www.npmjs.com/package/daff) – an R package for easily comparing tabular data
+- [daff](https://www.npmjs.com/package/daff) – a tool for easily comparing tabular data
 
 ## modules for working with excel/google spreadsheets:
 - http://sheetjs.com/
