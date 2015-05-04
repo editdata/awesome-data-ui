@@ -35,6 +35,11 @@ Create a set of open source js, css, & html packages that provide accessible, ea
 - ordering & filtering data
 - realtime editing
 
+## Modules
+
+- [data-cards](http://github.com/sethvincent/data-cards) – an approach to interacting with tabular data that isn't a table/spreadsheet
+- _more soon!_
+
 ## See also
 
 There are a number of existing projects related to editing JSON & tabular data.
