@@ -38,6 +38,7 @@ Create a set of open source js, css, & html packages that provide accessible, ea
 ## Modules
 
 - [data-cards](http://github.com/sethvincent/data-cards) – an approach to interacting with tabular data that isn't a table/spreadsheet
+- [data-grid](http://github.com/sethvincent/data-grid) – a grid editor/viewer for tabular data
 - _more soon!_
 
 ## See also
