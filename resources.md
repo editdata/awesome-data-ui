@@ -8,9 +8,11 @@ permalink: /resources/
 Existing open source projects, demos, paid services, etc. that demonstrate approaches to editing & managing data through a user interface.
 
 ## editors & transformation tools
-- [OpenRefine](https://github.com/OpenRefine/OpenRefine) – a free, open source power tool for working with messy data and improving it
+- [editdata.org](http://editdata.org) – Edit tabular data. Save it to GitHub.
+- [data-editor](http://github.com/sethvincent/data-editor) Command-line tool for editing a csv via UI.
 - [flatsheet](http://github.com/flatsheet/flatsheet) – realtime editor for curating data as a team
 - [dataexplorer](https://github.com/okfn/dataexplorer) & [recline.js](http://okfnlabs.org/recline/)
+- [OpenRefine](https://github.com/OpenRefine/OpenRefine) – a free, open source power tool for working with messy data and improving it
 
 ## dat – version control & replication of data
 - [dat](http://github.com/maxogden/dat) – real-time replication and versioning for data sets
