@@ -42,6 +42,10 @@ Create a set of open source js, css, & html packages that provide accessible, ea
 - [data-schema](http://github.com/sethvincent/data-schema) – Defines & manages the properties – the columns – of tabular data using json-schema
 - _more soon!_
 
+## Tools
+- [editdata.org](http://editdata.org) – Edit tabular data. Save it to GitHub.
+- [data-editor](http://github.com/sethvincent/data-editor) Command-line tool for editing a csv via UI.
+
 ## See also
 
 There are a number of existing projects related to editing JSON & tabular data.
