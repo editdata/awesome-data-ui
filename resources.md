@@ -32,6 +32,7 @@ Existing open source projects, demos, paid services, etc. that demonstrate appro
 - [hulk](https://github.com/kevinburke/hulk) – an in-browser JSON editor
 - [JSONedit](https://github.com/mb21/JSONedit) – User friendly, visual JSON editor built as an AngularJS directive
 - [FlexiJsonEditor](https://github.com/DavidDurman/FlexiJsonEditor) – JSON editor as a jQuery plugin
+- [ember-jsoneditor](https://github.com/Glavin001/ember-jsoneditor)– Ember component to view, edit and format JSON
 
 ## data validation
 - [data-package-validate](https://github.com/okfn/datapackage-validate) - Validate Data Package DataPackage.json files 
