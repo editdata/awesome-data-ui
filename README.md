@@ -16,7 +16,7 @@ Create a set of open source js, css, & html packages that provide accessible, ea
 - Document current approaches to providing interfaces for editing loosely-structured data
 - Mockup, prototype, & user test a wide range of approaches to editing, validating, & organizing data through a user interface
 - Build npm packages for the approaches that best address problems
-- Use the npm packages to build editors for projects like [dat](http://github.com/maxogden/dat) & [flatsheet](http://github.com/flatsheet), content management systems, etc.
+- Use the npm packages to build editors for projects like [dat](http://github.com/maxogden/dat) & [editdata.org](http://editdata.org), content management systems, etc.
 
 ## Focus areas include:
 
