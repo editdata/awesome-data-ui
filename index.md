@@ -6,8 +6,8 @@ layout: default
 
 - **[data-ui on Github](http://github.com/sethvincent/data-ui)**
 - **[Discussions, tasks, and issue reporting](http://github.com/sethvincent/data-ui/issues)**
-- **[Contributing guidelines]({{ site.baseurl }}/contributing)**
-- **[Resources]({{ site.baseurl }}/resources)**
+- **[Contributing guidelines](CONTRIBUTING.md)**
+- **[Resources](resources.md)**
 
 ## The goal
 
@@ -18,7 +18,7 @@ Create a set of open source js, css, & html packages that provide accessible, ea
 - Document current approaches to providing interfaces for editing loosely-structured data
 - Mockup, prototype, & user test a wide range of approaches to editing, validating, & organizing data through a user interface
 - Build npm packages for the approaches that best address problems
-- Use the npm packages to build editors for projects like [dat](http://github.com/maxogden/dat) & [flatsheet](http://github.com/flatsheet), content management systems, etc.
+- Use the npm packages to build editors for projects like [dat](http://github.com/maxogden/dat) & [editdata.org](http://editdata.org), content management systems, etc.
 
 ## Focus areas include:
 
@@ -38,24 +38,28 @@ Create a set of open source js, css, & html packages that provide accessible, ea
 - realtime editing
 
 ## Modules
-
-- [data-cards](http://github.com/sethvincent/data-cards) – an approach to interacting with tabular data that isn't a table/spreadsheet
-- [data-grid](http://github.com/sethvincent/data-grid) – a grid editor/viewer for tabular data
-- [data-schema](http://github.com/sethvincent/data-schema) – Defines & manages the properties – the columns – of tabular data using json-schema
+- [data-editor](http://github.com/editdata/data-editor) – a flexible editor for data
+- [data-format](http://github.com/editdata/data-format) – format data for use in various [data-ui](https://github.com/editdata/data-ui) modules
+- [data-grid](http://github.com/editdata/data-grid) – a grid editor/viewer for data
+- [data-map](http://github.com/editdata/data-map) – show a dataset on a map
 - _more soon!_
+
+## Tools
+- [editdata.org](http://editdata.org) – edit data & save it to GitHub
+- [editdata](https://github.com/editdata/editdata) – desktop app for editing data
 
 ## See also
 
 There are a number of existing projects related to editing JSON & tabular data.
 
-We're documenting those projects & approaches on the [resources]({{ site.baseurl }}/resources) page, and contributions are welcome!
+We're documenting those projects & approaches in the [resources.md](resources.md) file, and contributions are welcome!
 
 ## Contributing
 
 This project is as much about design & documentation as it is about code, and we are actively seeking contributions!
 
-Read the [contributing guidelines for details]({{ site.baseurl }}/contributing).
+Read the [contributing guidelines for details](CONTRIBUTING.md).
 
 ## License
 
-Code is licensed as [MIT](https://github.com/sethvincent/data-ui/blob/gh-pages/LICENSE.md), content is licensed as [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Code is licensed as [MIT](LICENSE.md), content is licensed as [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
