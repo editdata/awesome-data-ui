@@ -38,15 +38,13 @@ Create a set of open source js, css, & html packages that provide accessible, ea
 ## Modules
 - [data-editor](http://github.com/editdata/data-editor) – a flexible editor for data
 - [data-format](http://github.com/editdata/data-format) – format data for use in 
-- [data-editor](https://github.com/editdata/data-editor) and other [data-ui](https://github.com/editdata/data-ui) modules
-- [data-cards](http://github.com/sethvincent/data-cards) – an approach to interacting with tabular data that isn't a table/spreadsheet
-- [data-grid](http://github.com/sethvincent/data-grid) – a grid editor/viewer for tabular data
-- [data-schema](http://github.com/sethvincent/data-schema) – Defines & manages the properties – the columns – of tabular data using json-schema
+- [data-grid](http://github.com/editdata/data-grid) – a grid editor/viewer for data
+- [data-map](http://github.com/editdata/data-map) – show a dataset on a map
 - _more soon!_
 
 ## Tools
-- [editdata.org](http://editdata.org) – Edit tabular data. Save it to GitHub.
-
+- [editdata.org](http://editdata.org) – edit data & save it to GitHub
+- [editdata](https://github.com/editdata/editdata) – desktop app for editing data
 
 ## See also
 
