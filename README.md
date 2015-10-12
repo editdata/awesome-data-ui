@@ -37,7 +37,7 @@ Create a set of open source js, css, & html packages that provide accessible, ea
 
 ## Modules
 - [data-editor](http://github.com/editdata/data-editor) – a flexible editor for data
-- [data-format](http://github.com/editdata/data-format) – format data for use in 
+- [data-format](http://github.com/editdata/data-format) – format data for use in various [data-ui](https://github.com/editdata/data-ui) modules
 - [data-grid](http://github.com/editdata/data-grid) – a grid editor/viewer for data
 - [data-map](http://github.com/editdata/data-map) – show a dataset on a map
 - _more soon!_
