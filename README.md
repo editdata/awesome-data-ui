@@ -40,6 +40,7 @@ Create a set of open source js, css, & html packages that provide accessible, ea
 - [data-format](http://github.com/editdata/data-format) – format data for use in various [data-ui](https://github.com/editdata/data-ui) modules
 - [data-grid](http://github.com/editdata/data-grid) – a grid editor/viewer for data
 - [data-map](http://github.com/editdata/data-map) – show a dataset on a map
+- [data-form](http://github.com/editdata/data-form) – turn a row in a dataset into a form
 - _more soon!_
 
 ## Tools
