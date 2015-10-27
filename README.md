@@ -41,6 +41,12 @@ Create a set of open source js, css, & html packages that provide accessible, ea
 - [data-grid](http://github.com/editdata/data-grid) – a grid editor/viewer for data
 - [data-map](http://github.com/editdata/data-map) – show a dataset on a map
 - [data-form](http://github.com/editdata/data-form) – turn a row in a dataset into a form
+- [data-fields](http://github.com/editdata/data-fields) – fields for editing & displaying data
+  - [data-field-geojson](http://github.com/editdata/data-field-geojson) – edit & display geojson with leaflet & leaflet-draw 
+  - [data-field-image](http://github.com/editdata/data-field-image) – edit & display images
+  - [data-field-list](http://github.com/editdata/data-field-list) – edit & display lists, both arrays & key/value lists
+  - [data-field-string](http://github.com/editdata/data-field-string) – edit & display strings
+  - [data-field-url](http://github.com/editdata/data-field-url) – edit & display URLs
 - _more soon!_
 
 ## Tools
