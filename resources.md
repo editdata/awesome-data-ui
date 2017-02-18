@@ -5,7 +5,7 @@ permalink: /resources/
 
 # Resources
 
-Existing open source projects, demos, paid services, etc. that demonstrate approaches to editing & managing data through a user interface.
+Open source projects, demos, paid services, etc. that demonstrate approaches to editing & managing data through a user interface.
 
 ## editors & transformation tools
 - [editdata.org](http://editdata.org) – Edit tabular data. Save it to GitHub.
