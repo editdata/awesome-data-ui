@@ -4,14 +4,11 @@ Open source projects, demos, paid services, etc. that demonstrate approaches to 
 
 ## editors & transformation tools
 - [editdata.org](http://editdata.org) – Edit tabular data. Save it to GitHub.
-- [data-editor](http://github.com/sethvincent/data-editor) Command-line tool for editing a csv via UI.
-- [flatsheet](http://github.com/flatsheet/flatsheet) – realtime editor for curating data as a team
 - [dataexplorer](https://github.com/okfn/dataexplorer) & [recline.js](http://okfnlabs.org/recline/)
 - [OpenRefine](https://github.com/OpenRefine/OpenRefine) – a free, open source power tool for working with messy data and improving it
 
 ## dat – version control & replication of data
-- [dat](http://github.com/maxogden/dat) – real-time replication and versioning for data sets
-- [dat-editor](https://github.com/maxogden/dat-editor) – grid editor/viewer for dat
+- [dat](http://github.com/datproject/dat) – decentralized data sharing tool for efficiently versioning and syncing changes to data
 
 ## open source grid/spreadsheet editors
 - [handsontable](https://github.com/handsontable/handsontable) – a minimalist Excel-like data grid editor for HTML & JavaScript
@@ -30,8 +27,9 @@ Open source projects, demos, paid services, etc. that demonstrate approaches to 
 - [ember-jsoneditor](https://github.com/Glavin001/ember-jsoneditor)– Ember component to view, edit and format JSON
 
 ## data validation
-- [data-package-validate](https://github.com/okfn/datapackage-validate) - Validate Data Package DataPackage.json files 
+- [data-package-validate](https://github.com/okfn/datapackage-validate) – Validate Data Package DataPackage.json files 
 http://data.okfn.org/tools/validate
+- [jsontableschema](https://github.com/frictionlessdata/jsontableschema-js) – A utility library for working with JSON Table Schema in Javascript.
 - [json-schema](http://json-schema.org/) – describes your JSON data format
 - [is-my-json-valid](https://www.npmjs.com/package/is-my-json-valid) – A JSONSchema validator that uses code generation to be extremely fast
 - [jsonlint](https://github.com/zaach/jsonlint) – A JSON parser and validator with a CLI
@@ -75,7 +73,7 @@ http://jlord.github.io/mappy
 ## misc. related tools/libraries
 - [JSONSelect](https://github.com/lloyd/JSONSelect) – CSS-like selectors for JSON
 
-## related resource lists
+## related awesome lists
 - [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata)
 
