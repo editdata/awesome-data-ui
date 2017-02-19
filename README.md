@@ -70,6 +70,7 @@ http://jlord.github.io/mappy
 - [airtable](https://airtable.com/)
 - [fieldbook](https://fieldbookapp.com/)
 - [smartsheet](https://www.smartsheet.com/)
+- [firebase admin](https://firebaseadmin.com) – the desktop app is free, and is for editing data hosted on firebase
 
 ## misc. related tools/libraries
 - [JSONSelect](https://github.com/lloyd/JSONSelect) – CSS-like selectors for JSON
