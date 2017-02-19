@@ -27,6 +27,7 @@ Open source projects, demos, paid services, etc. that demonstrate approaches to 
 - [ember-jsoneditor](https://github.com/Glavin001/ember-jsoneditor)– Ember component to view, edit and format JSON
 
 ## data validation
+- [Dataproofer](https://github.com/dataproofer/Dataproofer) – A desktop app for proofreading your data
 - [data-package-validate](https://github.com/okfn/datapackage-validate) – Validate Data Package DataPackage.json files 
 http://data.okfn.org/tools/validate
 - [jsontableschema](https://github.com/frictionlessdata/jsontableschema-js) – A utility library for working with JSON Table Schema in Javascript.
